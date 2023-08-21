@@ -1,0 +1,1 @@
+export const API_URL = "https://f-click-backend-api.onrender.com"
